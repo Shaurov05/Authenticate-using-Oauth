@@ -1,5 +1,5 @@
-# Authenticate-using-Oauth
-Authenticate user using Google/ facebook/ twitter/ github.  
+# Authenticate using Oauth/ Oauth2
+Authenticate user using Google/ facebook/ twitter/ github in django application.  
 User can also use email authentication to create an account.
 
 Download the repository and run the following lines before opening the server.
