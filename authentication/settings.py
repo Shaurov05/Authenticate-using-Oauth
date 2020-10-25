@@ -179,24 +179,24 @@ EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
 ###### Email information
 EMAIL_HOST_USER = 'expressyourthought05@gmail.com'
-EMAIL_HOST_PASSWORD = 'thisisbusinessemail05'
+EMAIL_HOST_PASSWORD = 'gmail password'
 ############################################################
 
 # Social Auth Login Facebook
-SOCIAL_AUTH_FACEBOOK_KEY = '661452851457363'  # App ID
-SOCIAL_AUTH_FACEBOOK_SECRET = '389c368ebc37846245f1677219acaa19'  # App Secret
+SOCIAL_AUTH_FACEBOOK_KEY = 'client id'  # App ID
+SOCIAL_AUTH_FACEBOOK_SECRET = 'secret key'  # App Secret
 
 # # Social Auth Login Twitter
-SOCIAL_AUTH_TWITTER_KEY = '4kc6BfBKEJwwzKKUgWO3vBgqW'
-SOCIAL_AUTH_TWITTER_SECRET = '4nJpmkTJ6UlubYoJo6g3U7NfRNG6j3Ww6HqhtcUH6N0vaaEsFC'
+SOCIAL_AUTH_TWITTER_KEY = 'client id'
+SOCIAL_AUTH_TWITTER_SECRET = 'secret key'
 
 # # Social Auth Login Github
-SOCIAL_AUTH_GITHUB_KEY = '941883d2736cdf483a4a'
-SOCIAL_AUTH_GITHUB_SECRET = '123cb659df6462f2691fd75d201743ea5b5cf791'
+SOCIAL_AUTH_GITHUB_KEY = 'client id'
+SOCIAL_AUTH_GITHUB_SECRET = 'secret key'
 
 # social auth google auth key
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '631875386389-kaaearlmb2mrcc7n2sbttq0t1ra1araq.apps.googleusercontent.com'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = '63vCXiw0lYcSQZv6XDIA0BEq'
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = 'client id'
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'secret key'
 
 # Social Auth Login
 SOCIAL_AUTH_LOGIN_ERROR_URL = 'social_complete'
